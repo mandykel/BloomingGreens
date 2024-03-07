@@ -21,3 +21,11 @@ service providers, hardware providers, and software providers.
 
 
 ****** Merge request was completed on the local repo to ensure compliance to regulatory standards and organizational policies.
+===============================================================================================================================
+All contigency planning and Business Continuity and Incidence Response Reports must clear;y defined prior to deployment.
+===============================================================================================================================
+
+
+
+
+
