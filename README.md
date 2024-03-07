@@ -18,3 +18,6 @@ distribution, and maintenance lifecycle. This supply chain describes many
 stages, from initial coding to end-user deployment, and includes various 
 service providers, hardware providers, and software providers.
 =============================================================================
+
+
+****** Merge request was completed on the local repo to ensure compliance to regulatory standards and organizational policies.
