@@ -1,4 +1,4 @@
-Subjects
+Subjects 
 ====================
 Mathematics 70/100
 English 90/100
