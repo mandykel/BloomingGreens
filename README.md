@@ -28,7 +28,7 @@ All contigency planning, Business Continuity and Incidence Response Reports must
 
 I want to know how jenkins will connect to github automatimatically and tigger builds if any changes.
 ===============================================================================================================================
-
+I just want to see if Jenkins will submit this build automatically.
 
 
 
