@@ -31,6 +31,7 @@ I want to know how jenkins will connect to github automatimatically and tigger b
 I just want to see if Jenkins will submit this build automatically.
 
 
+<<<<<<< HEAD
 I was having issue with port 8080 for a whole day..
 
 Long story short, i found 8080 was not open on the ec2 instance, so i created a new rule to allow TCP traffic on 8080.
@@ -41,3 +42,9 @@ The problem was fixed.
 
 
 
+=======
+Yay!!!!! 
+I did it!
+I added a new security group rule.
+ cant wait to tell shufai and the class what i found==================================================================================
+>>>>>>> 8a3584cfec47814807cfdaa442b76a459cb225fc
